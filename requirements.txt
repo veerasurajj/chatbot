@@ -1,0 +1,4 @@
+requests
+dotenv
+fuzzywuzzy
+python-Levenshtein
